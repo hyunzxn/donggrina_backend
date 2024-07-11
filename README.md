@@ -4,8 +4,8 @@
 반려동물의 건강, 일상 등을 가족, 친구, 연인과 함께 기록하고 공유할 수 있는 서비스입니다.
 
 ## 2. 팀원
-- [문현준](https://github.com/hyunzxn)
-- [권민우](https://github.com/Kwonminwoo)
+- [문현준](https://github.com/hyunzxn): 일정, 성장기록, 마이페이지(가족 관리), 이미지 업로드 및 삭제(스케줄링), 좋아요, 댓글(대댓글), AWS 환경 구성 + CI/CD 구성
+- [권민우](https://github.com/Kwonminwoo): OAuth2 인증(카카오, 구글), 마이페이지(반려동물 관리), 다이어리, 스토리
 
 ## 3. 사용 기술
 - **Backend**
